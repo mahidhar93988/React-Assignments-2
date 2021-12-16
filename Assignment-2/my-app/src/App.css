@@ -1,0 +1,25 @@
+.main {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+.picture {
+  height: 300px;
+  margin-top: 50px;
+  border-radius: 5px;
+}
+.name {
+  color: rgb(16, 128, 128);
+  font-size: 40px;
+}
+.key {
+  color: grey;
+  margin: 0%;
+  padding: 0%;
+}
+.value {
+  font-size: 30px;
+  margin: 0%;
+  padding: 0%;
+}
